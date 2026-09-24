@@ -1,0 +1,26 @@
+[
+  {
+    "wilaya_name": "Algiers",
+    "communes": [
+      { "commune_name": "Bab El Oued" },
+      { "commune_name": "Kouba" },
+      { "commune_name": "El Biar" }
+    ]
+  },
+  {
+    "wilaya_name": "Oran",
+    "communes": [
+      { "commune_name": "El Hamri" },
+      { "commune_name": "Sidi El Houari" },
+      { "commune_name": "Bachdjarah" }
+    ]
+  },
+  {
+    "wilaya_name": "Constantine",
+    "communes": [
+      { "commune_name": "El Khroub" },
+      { "commune_name": "Zighout Youcef" },
+      { "commune_name": "Ben Badis" }
+    ]
+  }
+]

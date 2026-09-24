@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "name": "Classic Tee",
+    "price": 29,
+    "currency": "USD",
+    "img": "/images/T-Shirt/Classic Tee1.avif",
+    "images": [
+      "/images/T-Shirt/Classic Tee2.avif",
+      "/images/T-Shirt/Classic Tee3.avif",
+      "/images/T-Shirt/Classic Tee4.avif",
+      "/images/T-Shirt/Classic Tee5.avif"
+    ],
+    "description": "A comfortable classic tee made from 100% cotton.",
+    "stock": 120
+  },
+  {
+    "id": "2",
+    "name": "Comfort Jacket",
+    "price": 129,
+    "currency": "USD",
+    "img": "/images/Hoodie/Comfort Jacket1.avif",
+    "images": [
+      "/images/Hoodie/Comfort Jacket1.avif",
+      "/images/Hoodie/Comfort Jacket2.avif",
+      "/images/Hoodie/Comfort Jacket3.avif",
+      "/images/Hoodie/Comfort Jacket4.avif",
+      "/images/Hoodie/Comfort Jacket5.avif"
+    ],
+    "description": "High performance sneakers for everyday wear.",
+    "stock": 42
+  },
+  {
+    "id": "3",
+    "name": "Running Shorts",
+    "price": 199,
+    "currency": "USD",
+    "img": "/images/Shorts/Running Shorts1.avif",
+    "images": [
+      "/images/Shorts/Running Shorts1.avif",
+      "/images/Shorts/Running Shorts2.avif",
+      "/images/Shorts/Running Shorts3.avif"
+    ],
+    "description": "Lightweight jacket with excellent insulation and style.",
+    "stock": 18
+  },
+  {
+    "id": "4",
+    "name": "Nike Air Force 1 '07",
+    "price": 49,
+    "currency": "USD",
+    "img": "/images/Shoes/AIR+FORCE+1+'07-1.avif",
+    "images": [
+      "/images/Shoes/AIR+FORCE+1+'07-1.avif",
+      "/images/Shoes/AIR+FORCE+1+'07-2.avif",
+      "/images/Shoes/AIR+FORCE+1+'07-3.avif",
+      "/images/Shoes/AIR+FORCE+1+'07-4.avif",
+      "/images/Shoes/AIR+FORCE+1+'07-5.avif",
+      "/images/Shoes/AIR+FORCE+1+'07-6.avif",
+      "/images/Shoes/AIR+FORCE+1+'07-7.avif",
+      "/images/Shoes/AIR+FORCE+1+'07-8.avif",
+      "/images/Shoes/AIR+FORCE+1+'07-9.avif"
+
+    ],
+    "description": "Breathable running shorts with quick-dry fabric.",
+    "stock": 75
+  }
+]
